@@ -1,6 +1,6 @@
 # MPI-Heterogeneity-RainbowTables-Experiment-Data
 
-This repository contains experimental data supporting the study titled **"Parallel Algorithm for Rainbow Tables Generation on Heterogeneous CPU Cluster"** (forthcoming).
+This repository contains experimental data supporting the study titled **"Parallel Algorithm with Benchmark-Based Load Balancing for Rainbow Table Generation on Heterogeneous CPU Cluster"**.
 
 ## Overview
 
@@ -38,4 +38,4 @@ Columns: `core_count`, `load_imbalance_old`, `load_imbalance_new`
 
 ## Citation
 
-**Vainer, M.**, Kačeniauskas, A., & Goranin, N. Parallel Algorithm for Rainbow Tables Generation on Heterogeneous CPU Cluster. Electronics, 15(16), 3596. https://doi.org/10.3390/electronics15163596
+**Vainer, M.**, Kačeniauskas, A., & Goranin, N. Parallel Algorithm with Benchmark-Based Load Balancing for Rainbow Table Generation on Heterogeneous CPU Cluster. Electronics, 15(16), 3596. https://doi.org/10.3390/electronics15163596
